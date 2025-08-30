@@ -13,11 +13,11 @@
 }
 
 .not__h1 {
-  color: red;
+  color: rgb(183, 0, 0);
 }
 
 .not__text {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 .not__button {
